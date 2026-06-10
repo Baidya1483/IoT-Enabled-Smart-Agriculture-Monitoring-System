@@ -1,0 +1,19 @@
+# Local Environment Configurations & Virtual Envs
+.env
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Local Agricultural Telemetry Lakes & Output Assets
+data/*.csv
+outputs/*.png
+reports/*.pdf
+reports/*.txt
+
+# IDE Workspace Settings
+.vscode/
+.idea/
+.DS_Store
